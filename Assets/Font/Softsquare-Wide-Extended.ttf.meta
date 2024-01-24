@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f923a15013a630849ab33b9468dfd21c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ChevyRay - Softsquare Wide
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6738e2079fab757438a14344be448e3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
